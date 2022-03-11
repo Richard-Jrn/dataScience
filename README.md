@@ -1,4 +1,4 @@
-# Data Science With Richard
+# Data Science With Richard :chart_with_downwards_trend:
 
 Let's connect on:
 - 🔗[LinkedIn](https://www.linkedin.com/in/richard-sarpong-b911011a4/)
@@ -9,11 +9,14 @@ Join me as I dig into how big data, and machine learning technologies can help s
 
 
 
-### Table of Contents 
-1. Get Started :pushpin:
+
 
 
 
 
 # Get Started :pushpin:
+Figure out what you need to learn, Get comfortable with Python, Learn data analysis, manipulation, and visualization with python libaries (Matplotlib, Pandas, Seaborn), Learn machine learning with scikit-learn, Understand machine learning model types and use cases (Regression, binary classification.. etc), You become great at it by practicing 👑
 
+
+
+## Road map to learning data science as beginner 
