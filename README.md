@@ -1,7 +1,7 @@
 # Data Science With Richard
 
 - Hi there. I'm Richard :relaxed:
-- I love machine learning :robot: , and books :books: 
+- I love machine learning :robot: , and books :books:
 - I’m addicted to learning and growing every day :seedling:
 
 Let's connect on:
