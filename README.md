@@ -1,9 +1,5 @@
 # Data Science With Richard
 
-- Hi there. I'm Richard :relaxed:
-- I love machine learning :robot: , and books :books:
-- I’m addicted to learning and growing every day :seedling:
-
 Let's connect on:
 - 🔗[LinkedIn](https://www.linkedin.com/in/richard-sarpong-b911011a4/)
 - 🔗[Twitter](https://twitter.com/richardjnsa)
@@ -12,4 +8,4 @@ Join me as I dig into how big data, and machine learning technologies can help s
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-jrn)](https://github.com/anuraghazra/github-readme-stats)
+
