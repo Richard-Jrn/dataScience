@@ -20,3 +20,4 @@ Figure out what you need to learn, Get comfortable with Python, Learn data analy
 
 
 ## Road map to learning data science as beginner 
+I initially took data sceince course on codecademy, which gave me a hands on expirience on how data sceince is done. it didn't stop there :) 
