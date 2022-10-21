@@ -1,4 +1,4 @@
-# Data Science With Richard :chart_with_downwards_trend:
+# Data engineering and analytics with Richard :chart_with_downwards_trend:
 
 Let's connect on:
 - 🔗[LinkedIn](https://www.linkedin.com/in/richard-sarpong-b911011a4/)
